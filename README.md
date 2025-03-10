@@ -31,6 +31,7 @@ added a flip button on the middle for convenience
 
 Here's a walkthrough of implemented required features:
 
+https://imgur.com/gallery/project2walkthrough-RyJJ6MT
 <img src='https://imgur.com/gallery/project2walkthrough-RyJJ6MT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF Tool
