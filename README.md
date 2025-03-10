@@ -31,7 +31,7 @@ added a flip button on the middle for convenience
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/project2walkthrough-RyJJ6MT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/project2walkthrough-RyJJ6MT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
