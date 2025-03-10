@@ -31,10 +31,10 @@ added a flip button on the middle for convenience
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/project2walkthrough-RyJJ6MT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/project2walkthrough-RyJJ6MT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF Tool
+GIF created with ...  GIF Tool
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -43,6 +43,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+implementing the components and trying to make the flashcards look in a certain way took me some time. Also, I had a hard time adding buttons
 
 ## License
 
